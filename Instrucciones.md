@@ -29,3 +29,10 @@ Se necesita una función que reciba como parámetro un numero entero N y que ret
 **Adjunto los valores de la serie Fibonnaci**
 
 ![Image description](http://www.alietvalles.com/cache/tabla-de-conejos-de-fibonacci_images_thumb_other330_0.jpg)
+
+Al finalizar la prueba, o si tienes alguna pregunta, por favor escríbeme a: **fcime@gotalent.lat**
+
+
+**¡Te deseamos el mejor de los éxitos!**
+
+
